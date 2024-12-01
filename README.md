@@ -4,7 +4,7 @@ This project demonstrates a simple smart contract. The contract allows users to 
 
 ## Description
 
-The **Assessment** contract is designed to manage the following functionalities:
+The contract is designed to manage the following functionalities:
 - **Get Balance**: Retrieve the current balance stored in the contract.
 - **Get Color**: Retrieve the current color stored in the contract.
 - **Set Color**: The contract owner can change the stored color.
